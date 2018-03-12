@@ -1,0 +1,2 @@
+node mqtt_test_iot_dev_res.js
+pause
